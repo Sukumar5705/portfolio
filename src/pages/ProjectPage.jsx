@@ -203,9 +203,9 @@ const ProjectPage = () => {
 
   {/* 2. Employee Management System - Live */}
   <Project
-    title="Employee Management System – Role-Based Tracker"
+    title="Taskflow - Employee Management System"
     description="A full-stack MERN application with Role-Based Access Control across 4 user roles — Admin, HR, Manager, and Employee — supporting task assignment, real-time tracking, and performance analytics for 50+ users. Secured with JWT and bcrypt."
-    github="https://github.com/Sukumar5705/employee-management-system"
+    github="https://github.com/Sukumar5705/taskflow"
     live="https://employee-management-system-fkrh.vercel.app"
     status="Live"
     color="#FF6D00"
